@@ -1,4 +1,4 @@
-manifestVersion: 1
+manifestVersion: 2
 id: affine
 name: Affine
 tagline: Open source alternative to Notion, Miro, and Airtable
@@ -24,17 +24,15 @@ description: >-
 
   3. Follow the steps to create your self-hosted cloud workspace. You are now ready to use Affine with your self-hosted instance!
 developer: toeverything
-website: https://affine.pro
+website: https
 submitter: Jasper
-submission: https://github.com/getumbrel/umbrel-apps/pull/990
-repo: https://github.com/toeverything/AFFiNE
+submission: https://github.com/getum
+repo: https://github.
 support: https://docs.affine.pro
 gallery:
   - 1.jpg
   - 2.jpg
   - 3.jpg
 releaseNotes: ""
-dependencies: []
-path: ""
 defaultUsername: "admin@umbrel.local"
 deterministicPassword: true
