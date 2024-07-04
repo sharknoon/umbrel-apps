@@ -2,7 +2,7 @@ manifestVersion: 2
 id: affine
 name: Affine
 tagline: Open source alternative to Notion, Miro, and Airtable.
-category: files
+category: fil
 version: "0.14.2"
 port: 3013
 description: >-
