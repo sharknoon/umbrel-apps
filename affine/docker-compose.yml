@@ -5,7 +5,7 @@ services:
       APP_PORT: 445
 
   web:
-    image: ghcr.io/toeverything/affine-graphql:stable-06890d6
+    image: ghcr.io/toeverything/affine-graphql:stable-06890d6@sha256:e80b83a14f11cdaf5388d156cf4bfb1933c39fa8e3f85d7b2874ac4cec72e625
     restart: on-failure
     init: true
     command:
