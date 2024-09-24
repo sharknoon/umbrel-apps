@@ -4,7 +4,7 @@ name: Affine
 tagline: Open source alternative to Notion, Miro, and Airtable
 category: files
 version: "0.16.3"
-port: 3013
+port: 3000
 description: >-
   A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion & Miro.
   One hyper-fused platform for wildly creative minds.
